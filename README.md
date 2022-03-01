@@ -18,5 +18,7 @@ Around half of Canada’s population is made up of immigrants and second-generat
 
 However, as pandemic emerged in 2020 as many source-countries of immigrants to Canada has dropped very badly. Hence this analysis focus on labour-market trends to understanding various aspects of their socio-economic integration using two key labour-market indicators: employment rate (Employment-toPopulation Ratio) and the unemployment rate, with references to the Canadian-born.
 
-Reference: https://www150.statcan.gc.ca/n1/en/catalogue/71-222-X
-Data Source : Statistics Canada
+### Reference: 
+https://www150.statcan.gc.ca/n1/en/catalogue/71-222-X
+### Data Source : 
+Statistics Canada
