@@ -1,6 +1,7 @@
 # Canadian-Immigrant-Labour-Market-Trend
 This visualization can be useful for recruiting firms as well as employment service firms to study the trend and bring change to labour market.
 
+View the dashboard in Tableau Public: https://tabsoft.co/3sziJqG
 ![Page 1](https://user-images.githubusercontent.com/63143802/156261951-f8e46493-b764-4b04-9c34-93e85da25b03.png)
 ## Motivation
 I as a visible minority, immigrant, and women in technology, was struggling over past few years to get a break into Canadian labour market and land a job. I am curious to study about what is happening in the job market and might help me to further investigate.
